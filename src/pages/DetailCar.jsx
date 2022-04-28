@@ -52,7 +52,7 @@ const DetailCar = () => {
 
           <Col md={3}>
             <Card style={{ width: '405px', height: '435px', left: "400px" }} className="detail">
-              <Card.Img variant="top" src="./image-car.jpg" className="image" />
+              <Card.Img variant="top" src="./car.png" className="image" />
               <Card.Body className="col">
                 <Card.Title>Innova</Card.Title>
                 <Card.Text><FaUserFriends /> 4 orang</Card.Text>
