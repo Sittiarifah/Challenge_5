@@ -32,7 +32,7 @@ const Header = () => {
             </Col>
 
             <Col md="6">
-              <img src="./img_car.png" alt="" className="img" /> 
+              <img src="./imgcar2.png" alt="" className="img" /> 
             </Col>
           </Row>
         </Container>
